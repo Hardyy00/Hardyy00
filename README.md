@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hardyy00
-- 👀 I’m interested in gaining experience in multiple languages
-- 🌱 I’m currently learning C Programming Language
+- 👋 Hi, I’m Hardik
+- 👀 I’m currently involved in learning programming languages
+- 🌱 I’m currently learning C Programming Language & python
 - 📫 How to reach me ; insta: its_hardik39 
                        Snap : hardikgaur9319
 
