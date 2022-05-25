@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hardik
-- 👀 I’m currently involved in learning programming languages
-- 🌱 I’m currently learning C Programming Language & python
+- 👀 I’m currently emerged in programming
+- 🌱 I’m currently learning C Programming Language , python , c++ , html ,css.
 - 📫 How to reach me ; insta: its_hardik39 
                        Snap : hardikgaur9319
 
