@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hardikgaur8901" target="blank"><img src="https://img.shields.io/twitter/follow/hardikgaur8901?logo=twitter&style=for-the-badge" alt="hardikgaur8901" /></a> </p>
 
-- 🌱 I’m currently learning **NEXT.js**
+- 🌱 I’m currently learning **NEXT.js** and **AWS**
 
 - 💬 Ask me about **react.js , java , dsa, node.js , mongodb, express.js**
 
